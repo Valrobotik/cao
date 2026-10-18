@@ -1,0 +1,6 @@
+[submodule "cao-cdf"]
+	path = cao-cdf
+	url = https://github.com/Valrobotik/cao-cdf
+[submodule "cao-pieces"]
+	path = cao-pieces
+	url = https://github.com/Valrobotik/cao-pieces
